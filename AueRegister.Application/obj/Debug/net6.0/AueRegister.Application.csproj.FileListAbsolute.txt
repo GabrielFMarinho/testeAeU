@@ -1,0 +1,12 @@
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\bin\Debug\net6.0\AueRegister.Application.deps.json
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\bin\Debug\net6.0\AueRegister.Application.dll
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\bin\Debug\net6.0\AueRegister.Application.pdb
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.AssemblyInfo.cs
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.dll
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\refint\AueRegister.Application.dll
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\AueRegister.Application.pdb
+C:\Users\guilh\source\repos\AuECadastro\AueRegister.Application\obj\Debug\net6.0\ref\AueRegister.Application.dll

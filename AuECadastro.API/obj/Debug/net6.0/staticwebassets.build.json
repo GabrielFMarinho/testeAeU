@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9B62LBTtU9vjzLHaOOhPsw2FGIdtTG12rrrOAJaNI1g=",
+  "Source": "AuERegister.API",
+  "BasePath": "_content/AuERegister.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

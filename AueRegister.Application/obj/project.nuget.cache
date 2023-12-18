@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/scYmY7vJBMVO8JumOFOWB2pp+1YPuyC9GZe15wd3a+rJT4f9RXYBQN6zMshzrY9YxGFZ84+rmfA+lC21xJ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\source\\repos\\AuECadastro\\AueRegister.Application\\AueRegister.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
